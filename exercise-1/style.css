@@ -1,7 +1,25 @@
 * {
-  font-family: Arial;
+  font-family: Times;
 }
 
 ul li {
     list-style: none;
+}
+
+ul {
+    padding-top: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+body {
+    background-color: grey;
+    color: blue;
+}
+
+#listitem {
+width: 400px;
+height: 50px;
 }
